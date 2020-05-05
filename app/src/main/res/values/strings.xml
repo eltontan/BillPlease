@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Bill Please</string>
+    <string name="amt">Amount:</string>
+    <string name="numPax">Num of Pax:</string>
+    <string name="disc">Discount:(%)</string>
+    <string name="split">SPLIT</string>
+    <string name="reset">RESET</string>
+    <string name="displayBill">Total bill: </string>
+    <string name="displaySplit">Each person has to pay: </string>
+    <string name="tgSVS">SVS</string>
+    <string name="tgGST">GST</string>
+    <string name="GstOff">GSTOFF</string>
+    <string name="SvsOff">SVSOFF</string>
+    <string name="btnCalculate">Calculate</string>
+</resources>
